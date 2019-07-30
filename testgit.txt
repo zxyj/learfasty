@@ -1,0 +1,2 @@
+I am a git
+git is very good
